@@ -1,0 +1,882 @@
+[
+    {
+        "externalId": "ISIC_0024306.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024306.jpg"
+    },
+    {
+        "externalId": "ISIC_0024307.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024307.jpg"
+    },
+    {
+        "externalId": "ISIC_0024308.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024308.jpg"
+    },
+    {
+        "externalId": "ISIC_0024309.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024309.jpg"
+    },
+    {
+        "externalId": "ISIC_0024310.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024310.jpg"
+    },
+    {
+        "externalId": "ISIC_0024311.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024311.jpg"
+    },
+    {
+        "externalId": "ISIC_0024312.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024312.jpg"
+    },
+    {
+        "externalId": "ISIC_0024313.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024313.jpg"
+    },
+    {
+        "externalId": "ISIC_0024314.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024314.jpg"
+    },
+    {
+        "externalId": "ISIC_0024315.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024315.jpg"
+    },
+    {
+        "externalId": "ISIC_0024316.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024316.jpg"
+    },
+    {
+        "externalId": "ISIC_0024317.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024317.jpg"
+    },
+    {
+        "externalId": "ISIC_0024318.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024318.jpg"
+    },
+    {
+        "externalId": "ISIC_0024319.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024319.jpg"
+    },
+    {
+        "externalId": "ISIC_0024320.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024320.jpg"
+    },
+    {
+        "externalId": "ISIC_0024321.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024321.jpg"
+    },
+    {
+        "externalId": "ISIC_0024322.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024322.jpg"
+    },
+    {
+        "externalId": "ISIC_0024323.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024323.jpg"
+    },
+    {
+        "externalId": "ISIC_0024324.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024324.jpg"
+    },
+    {
+        "externalId": "ISIC_0024325.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024325.jpg"
+    },
+    {
+        "externalId": "ISIC_0024326.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024326.jpg"
+    },
+    {
+        "externalId": "ISIC_0024327.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024327.jpg"
+    },
+    {
+        "externalId": "ISIC_0024328.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024328.jpg"
+    },
+    {
+        "externalId": "ISIC_0024329.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024329.jpg"
+    },
+    {
+        "externalId": "ISIC_0024330.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024330.jpg"
+    },
+    {
+        "externalId": "ISIC_0024331.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024331.jpg"
+    },
+    {
+        "externalId": "ISIC_0024332.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024332.jpg"
+    },
+    {
+        "externalId": "ISIC_0024333.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024333.jpg"
+    },
+    {
+        "externalId": "ISIC_0024334.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024334.jpg"
+    },
+    {
+        "externalId": "ISIC_0024335.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024335.jpg"
+    },
+    {
+        "externalId": "ISIC_0024336.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024336.jpg"
+    },
+    {
+        "externalId": "ISIC_0024337.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024337.jpg"
+    },
+    {
+        "externalId": "ISIC_0024338.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024338.jpg"
+    },
+    {
+        "externalId": "ISIC_0024339.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024339.jpg"
+    },
+    {
+        "externalId": "ISIC_0024340.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024340.jpg"
+    },
+    {
+        "externalId": "ISIC_0024341.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024341.jpg"
+    },
+    {
+        "externalId": "ISIC_0024342.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024342.jpg"
+    },
+    {
+        "externalId": "ISIC_0024343.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024343.jpg"
+    },
+    {
+        "externalId": "ISIC_0024344.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024344.jpg"
+    },
+    {
+        "externalId": "ISIC_0024345.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024345.jpg"
+    },
+    {
+        "externalId": "ISIC_0024346.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024346.jpg"
+    },
+    {
+        "externalId": "ISIC_0024347.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024347.jpg"
+    },
+    {
+        "externalId": "ISIC_0024348.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024348.jpg"
+    },
+    {
+        "externalId": "ISIC_0024349.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024349.jpg"
+    },
+    {
+        "externalId": "ISIC_0024350.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024350.jpg"
+    },
+    {
+        "externalId": "ISIC_0024351.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024351.jpg"
+    },
+    {
+        "externalId": "ISIC_0024352.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024352.jpg"
+    },
+    {
+        "externalId": "ISIC_0024353.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024353.jpg"
+    },
+    {
+        "externalId": "ISIC_0024354.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024354.jpg"
+    },
+    {
+        "externalId": "ISIC_0024355.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024355.jpg"
+    },
+    {
+        "externalId": "ISIC_0024356.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024356.jpg"
+    },
+    {
+        "externalId": "ISIC_0024357.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024357.jpg"
+    },
+    {
+        "externalId": "ISIC_0024358.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024358.jpg"
+    },
+    {
+        "externalId": "ISIC_0024359.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024359.jpg"
+    },
+    {
+        "externalId": "ISIC_0024360.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024360.jpg"
+    },
+    {
+        "externalId": "ISIC_0024361.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024361.jpg"
+    },
+    {
+        "externalId": "ISIC_0024362.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024362.jpg"
+    },
+    {
+        "externalId": "ISIC_0024363.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024363.jpg"
+    },
+    {
+        "externalId": "ISIC_0024364.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024364.jpg"
+    },
+    {
+        "externalId": "ISIC_0024365.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024365.jpg"
+    },
+    {
+        "externalId": "ISIC_0024366.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024366.jpg"
+    },
+    {
+        "externalId": "ISIC_0024367.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024367.jpg"
+    },
+    {
+        "externalId": "ISIC_0024368.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024368.jpg"
+    },
+    {
+        "externalId": "ISIC_0024369.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024369.jpg"
+    },
+    {
+        "externalId": "ISIC_0024370.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024370.jpg"
+    },
+    {
+        "externalId": "ISIC_0024371.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024371.jpg"
+    },
+    {
+        "externalId": "ISIC_0024372.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024372.jpg"
+    },
+    {
+        "externalId": "ISIC_0024373.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024373.jpg"
+    },
+    {
+        "externalId": "ISIC_0024374.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024374.jpg"
+    },
+    {
+        "externalId": "ISIC_0024375.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024375.jpg"
+    },
+    {
+        "externalId": "ISIC_0024376.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024376.jpg"
+    },
+    {
+        "externalId": "ISIC_0024377.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024377.jpg"
+    },
+    {
+        "externalId": "ISIC_0024378.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024378.jpg"
+    },
+    {
+        "externalId": "ISIC_0024379.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024379.jpg"
+    },
+    {
+        "externalId": "ISIC_0024380.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024380.jpg"
+    },
+    {
+        "externalId": "ISIC_0024381.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024381.jpg"
+    },
+    {
+        "externalId": "ISIC_0024382.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024382.jpg"
+    },
+    {
+        "externalId": "ISIC_0024383.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024383.jpg"
+    },
+    {
+        "externalId": "ISIC_0024384.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024384.jpg"
+    },
+    {
+        "externalId": "ISIC_0024385.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024385.jpg"
+    },
+    {
+        "externalId": "ISIC_0024386.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024386.jpg"
+    },
+    {
+        "externalId": "ISIC_0024387.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024387.jpg"
+    },
+    {
+        "externalId": "ISIC_0024388.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024388.jpg"
+    },
+    {
+        "externalId": "ISIC_0024389.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024389.jpg"
+    },
+    {
+        "externalId": "ISIC_0024390.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024390.jpg"
+    },
+    {
+        "externalId": "ISIC_0024391.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024391.jpg"
+    },
+    {
+        "externalId": "ISIC_0024392.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024392.jpg"
+    },
+    {
+        "externalId": "ISIC_0024393.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024393.jpg"
+    },
+    {
+        "externalId": "ISIC_0024394.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024394.jpg"
+    },
+    {
+        "externalId": "ISIC_0024395.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024395.jpg"
+    },
+    {
+        "externalId": "ISIC_0024396.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024396.jpg"
+    },
+    {
+        "externalId": "ISIC_0024397.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024397.jpg"
+    },
+    {
+        "externalId": "ISIC_0024398.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024398.jpg"
+    },
+    {
+        "externalId": "ISIC_0024399.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024399.jpg"
+    },
+    {
+        "externalId": "ISIC_0024400.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024400.jpg"
+    },
+    {
+        "externalId": "ISIC_0024401.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024401.jpg"
+    },
+    {
+        "externalId": "ISIC_0024402.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024402.jpg"
+    },
+    {
+        "externalId": "ISIC_0024403.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024403.jpg"
+    },
+    {
+        "externalId": "ISIC_0024404.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024404.jpg"
+    },
+    {
+        "externalId": "ISIC_0024405.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024405.jpg"
+    },
+    {
+        "externalId": "ISIC_0024406.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024406.jpg"
+    },
+    {
+        "externalId": "ISIC_0024407.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024407.jpg"
+    },
+    {
+        "externalId": "ISIC_0024408.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024408.jpg"
+    },
+    {
+        "externalId": "ISIC_0024409.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024409.jpg"
+    },
+    {
+        "externalId": "ISIC_0024410.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024410.jpg"
+    },
+    {
+        "externalId": "ISIC_0024411.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024411.jpg"
+    },
+    {
+        "externalId": "ISIC_0024412.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024412.jpg"
+    },
+    {
+        "externalId": "ISIC_0024413.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024413.jpg"
+    },
+    {
+        "externalId": "ISIC_0024414.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024414.jpg"
+    },
+    {
+        "externalId": "ISIC_0024415.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024415.jpg"
+    },
+    {
+        "externalId": "ISIC_0024416.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024416.jpg"
+    },
+    {
+        "externalId": "ISIC_0024417.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024417.jpg"
+    },
+    {
+        "externalId": "ISIC_0024418.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024418.jpg"
+    },
+    {
+        "externalId": "ISIC_0024419.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024419.jpg"
+    },
+    {
+        "externalId": "ISIC_0024420.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024420.jpg"
+    },
+    {
+        "externalId": "ISIC_0024421.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024421.jpg"
+    },
+    {
+        "externalId": "ISIC_0024422.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024422.jpg"
+    },
+    {
+        "externalId": "ISIC_0024423.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024423.jpg"
+    },
+    {
+        "externalId": "ISIC_0024424.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024424.jpg"
+    },
+    {
+        "externalId": "ISIC_0024425.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024425.jpg"
+    },
+    {
+        "externalId": "ISIC_0024426.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024426.jpg"
+    },
+    {
+        "externalId": "ISIC_0024427.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024427.jpg"
+    },
+    {
+        "externalId": "ISIC_0024428.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024428.jpg"
+    },
+    {
+        "externalId": "ISIC_0024429.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024429.jpg"
+    },
+    {
+        "externalId": "ISIC_0024430.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024430.jpg"
+    },
+    {
+        "externalId": "ISIC_0024431.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024431.jpg"
+    },
+    {
+        "externalId": "ISIC_0024432.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024432.jpg"
+    },
+    {
+        "externalId": "ISIC_0024433.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024433.jpg"
+    },
+    {
+        "externalId": "ISIC_0024434.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024434.jpg"
+    },
+    {
+        "externalId": "ISIC_0024435.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024435.jpg"
+    },
+    {
+        "externalId": "ISIC_0024436.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024436.jpg"
+    },
+    {
+        "externalId": "ISIC_0024437.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024437.jpg"
+    },
+    {
+        "externalId": "ISIC_0024438.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024438.jpg"
+    },
+    {
+        "externalId": "ISIC_0024439.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024439.jpg"
+    },
+    {
+        "externalId": "ISIC_0024440.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024440.jpg"
+    },
+    {
+        "externalId": "ISIC_0024441.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024441.jpg"
+    },
+    {
+        "externalId": "ISIC_0024442.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024442.jpg"
+    },
+    {
+        "externalId": "ISIC_0024443.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024443.jpg"
+    },
+    {
+        "externalId": "ISIC_0024444.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024444.jpg"
+    },
+    {
+        "externalId": "ISIC_0024445.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024445.jpg"
+    },
+    {
+        "externalId": "ISIC_0024446.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024446.jpg"
+    },
+    {
+        "externalId": "ISIC_0024447.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024447.jpg"
+    },
+    {
+        "externalId": "ISIC_0024448.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024448.jpg"
+    },
+    {
+        "externalId": "ISIC_0024449.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024449.jpg"
+    },
+    {
+        "externalId": "ISIC_0024450.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024450.jpg"
+    },
+    {
+        "externalId": "ISIC_0024451.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024451.jpg"
+    },
+    {
+        "externalId": "ISIC_0024452.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024452.jpg"
+    },
+    {
+        "externalId": "ISIC_0024453.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024453.jpg"
+    },
+    {
+        "externalId": "ISIC_0024454.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024454.jpg"
+    },
+    {
+        "externalId": "ISIC_0024455.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024455.jpg"
+    },
+    {
+        "externalId": "ISIC_0024456.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024456.jpg"
+    },
+    {
+        "externalId": "ISIC_0024457.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024457.jpg"
+    },
+    {
+        "externalId": "ISIC_0024458.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024458.jpg"
+    },
+    {
+        "externalId": "ISIC_0024459.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024459.jpg"
+    },
+    {
+        "externalId": "ISIC_0024460.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024460.jpg"
+    },
+    {
+        "externalId": "ISIC_0024461.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024461.jpg"
+    },
+    {
+        "externalId": "ISIC_0024462.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024462.jpg"
+    },
+    {
+        "externalId": "ISIC_0024463.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024463.jpg"
+    },
+    {
+        "externalId": "ISIC_0024464.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024464.jpg"
+    },
+    {
+        "externalId": "ISIC_0024465.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024465.jpg"
+    },
+    {
+        "externalId": "ISIC_0024466.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024466.jpg"
+    },
+    {
+        "externalId": "ISIC_0024467.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024467.jpg"
+    },
+    {
+        "externalId": "ISIC_0024468.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024468.jpg"
+    },
+    {
+        "externalId": "ISIC_0024469.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024469.jpg"
+    },
+    {
+        "externalId": "ISIC_0024470.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024470.jpg"
+    },
+    {
+        "externalId": "ISIC_0024471.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024471.jpg"
+    },
+    {
+        "externalId": "ISIC_0024472.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024472.jpg"
+    },
+    {
+        "externalId": "ISIC_0024473.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024473.jpg"
+    },
+    {
+        "externalId": "ISIC_0024474.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024474.jpg"
+    },
+    {
+        "externalId": "ISIC_0024475.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024475.jpg"
+    },
+    {
+        "externalId": "ISIC_0024476.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024476.jpg"
+    },
+    {
+        "externalId": "ISIC_0024477.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024477.jpg"
+    },
+    {
+        "externalId": "ISIC_0024478.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024478.jpg"
+    },
+    {
+        "externalId": "ISIC_0024479.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024479.jpg"
+    },
+    {
+        "externalId": "ISIC_0024480.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024480.jpg"
+    },
+    {
+        "externalId": "ISIC_0024481.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024481.jpg"
+    },
+    {
+        "externalId": "ISIC_0024482.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024482.jpg"
+    },
+    {
+        "externalId": "ISIC_0024483.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024483.jpg"
+    },
+    {
+        "externalId": "ISIC_0024484.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024484.jpg"
+    },
+    {
+        "externalId": "ISIC_0024485.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024485.jpg"
+    },
+    {
+        "externalId": "ISIC_0024486.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024486.jpg"
+    },
+    {
+        "externalId": "ISIC_0024487.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024487.jpg"
+    },
+    {
+        "externalId": "ISIC_0024488.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024488.jpg"
+    },
+    {
+        "externalId": "ISIC_0024489.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024489.jpg"
+    },
+    {
+        "externalId": "ISIC_0024490.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024490.jpg"
+    },
+    {
+        "externalId": "ISIC_0024491.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024491.jpg"
+    },
+    {
+        "externalId": "ISIC_0024492.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024492.jpg"
+    },
+    {
+        "externalId": "ISIC_0024493.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024493.jpg"
+    },
+    {
+        "externalId": "ISIC_0024494.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024494.jpg"
+    },
+    {
+        "externalId": "ISIC_0024495.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024495.jpg"
+    },
+    {
+        "externalId": "ISIC_0024496.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024496.jpg"
+    },
+    {
+        "externalId": "ISIC_0024497.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024497.jpg"
+    },
+    {
+        "externalId": "ISIC_0024498.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024498.jpg"
+    },
+    {
+        "externalId": "ISIC_0024499.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024499.jpg"
+    },
+    {
+        "externalId": "ISIC_0024500.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024500.jpg"
+    },
+    {
+        "externalId": "ISIC_0024501.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024501.jpg"
+    },
+    {
+        "externalId": "ISIC_0024502.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024502.jpg"
+    },
+    {
+        "externalId": "ISIC_0024503.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024503.jpg"
+    },
+    {
+        "externalId": "ISIC_0024504.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024504.jpg"
+    },
+    {
+        "externalId": "ISIC_0024505.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024505.jpg"
+    },
+    {
+        "externalId": "ISIC_0024506.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024506.jpg"
+    },
+    {
+        "externalId": "ISIC_0024507.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024507.jpg"
+    },
+    {
+        "externalId": "ISIC_0024508.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024508.jpg"
+    },
+    {
+        "externalId": "ISIC_0024509.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024509.jpg"
+    },
+    {
+        "externalId": "ISIC_0024510.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024510.jpg"
+    },
+    {
+        "externalId": "ISIC_0024511.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024511.jpg"
+    },
+    {
+        "externalId": "ISIC_0024512.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024512.jpg"
+    },
+    {
+        "externalId": "ISIC_0024513.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024513.jpg"
+    },
+    {
+        "externalId": "ISIC_0024514.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024514.jpg"
+    },
+    {
+        "externalId": "ISIC_0024515.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024515.jpg"
+    },
+    {
+        "externalId": "ISIC_0024516.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024516.jpg"
+    },
+    {
+        "externalId": "ISIC_0024517.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024517.jpg"
+    },
+    {
+        "externalId": "ISIC_0024518.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024518.jpg"
+    },
+    {
+        "externalId": "ISIC_0024519.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024519.jpg"
+    },
+    {
+        "externalId": "ISIC_0024520.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024520.jpg"
+    },
+    {
+        "externalId": "ISIC_0024521.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024521.jpg"
+    },
+    {
+        "externalId": "ISIC_0024522.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024522.jpg"
+    },
+    {
+        "externalId": "ISIC_0024523.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024523.jpg"
+    },
+    {
+        "externalId": "ISIC_0024524.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024524.jpg"
+    },
+    {
+        "externalId": "ISIC_0024525.jpg",
+        "imageUrl": "https://storage.googleapis.com/skin_lesion_dataset/ISIC_0024525.jpg"
+    }
+]
